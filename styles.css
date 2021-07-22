@@ -1,2 +1,15 @@
-
-
+body{
+    margin: 8px;
+    display: block;
+    background-color: coral;
+}
+img{
+    width: 30%;
+    height: 30%
+}
+#mainHeading{
+    color:red
+}
+.funParagraph{
+    color:green
+}
